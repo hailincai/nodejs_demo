@@ -1,0 +1,7 @@
+:local(.redButton) {
+	background: red;
+}
+
+:global(body) {
+	background: cornsilk;
+}
